@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'VRFSWatcher' target in the 'VRFSWatcher' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
